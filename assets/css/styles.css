@@ -453,3 +453,7 @@ img{
     right: 10%;
   }
 }
+@media screen and (max-width: 700px){
+.home__data{
+  display: none;
+}}
